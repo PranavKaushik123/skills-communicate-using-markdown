@@ -6,3 +6,5 @@
 # <h6> This is a h6 header </h6>
 
 # This is a short message to tell you the changes I've made
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
