@@ -8,3 +8,7 @@
 # This is a short message to tell you the changes I've made
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
